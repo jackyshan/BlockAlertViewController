@@ -1,4 +1,4 @@
-![](images/block_alert_view.png)
+![](images/block_alert_view.gif)
 
 ##步骤
 
@@ -32,3 +32,4 @@ BlockAlertView *alertView = [[BlockAlertView alloc] initWithTitle:@"test"];
 
 ```
 _blockView = alertView;
+```
